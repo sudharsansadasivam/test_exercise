@@ -10,6 +10,11 @@ go run requests.go
 python3 requests-metadata.py
 ```
 
+```bash
+$ npm i -g npm
+$ npm i --save lodash
+```
+
 ```
 
 ## Contributing
