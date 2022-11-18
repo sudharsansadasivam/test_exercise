@@ -1,3 +1,7 @@
+# Loadash npm package
+
+#https://lodash.com/
+# Rambda vs Lodash
 var object = {"a1": { "b1": { "c1": "d1" }}};
 
 console.log("Result at 'a1.b1.c1': ",_.get(object, 'a1.b1.c1'));
